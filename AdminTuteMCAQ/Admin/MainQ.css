@@ -1,0 +1,66 @@
+﻿body {
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 85%;
+    margin: 0;
+    padding: 0;
+    background-color: #d3d3d3;
+}
+#page 
+{
+    width: 700px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: White;
+}
+#main
+{
+    padding: 10px;
+    margin-top: 0;
+}
+#header
+{
+    margin-bottom: 0;
+}
+#gridview
+{
+    width: 320px;
+    margin-bottom: 30px;
+    float: left;
+}
+
+#tblStats
+{
+    width: 220px;
+    margin: auto;
+    text-align: center;
+}
+
+
+#detailsview
+{
+    margin-left: 330px;
+    margin-bottom: 30px;
+    
+}
+.error
+{
+    color: Green;
+    margin-top: 1em;        
+}
+
+.ImageHeader
+{
+    margin: auto;
+    width: 400px;
+    padding-left: 140px;
+    height: 105px;
+}
+
+.AtTheBottom
+{   
+    background: white;
+    margin: auto;
+    width: 400px;
+    font-weight: bolder;
+    text-align: center;
+}

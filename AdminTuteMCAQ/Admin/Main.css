@@ -1,0 +1,121 @@
+﻿body {
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 85%;
+    margin: 0;
+    padding: 0;
+    background-color: #D3D3D3;
+}
+h1
+{
+    font-size: 165%;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+#page 
+{
+    width: 700px;
+    margin: 0 auto;
+    background-color: White;
+}
+#main
+{
+    padding: 10px;
+    margin-top: 0;
+}
+
+#containment
+{
+    width : 800px;
+    padding-bottom: 50px;
+    overflow: auto;
+}
+
+#mainofuploadbulk
+{
+    margin-left: 10px;
+    padding: 10px;
+    margin-top: 0;
+    border: 5px groove black;
+    float: left;
+    width: 400px;
+    background-color: #f7f7f7;
+}
+
+#sideupload
+{
+    width: 200px;
+    background-color: #fffee3;
+    color: red;
+    float: left;
+    padding: 4px 4px 4px 4px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    border: 5px inset red;
+}
+
+#sidebelow
+{
+    width: 200px;
+    background-color: #fffee3;
+    color: #006c16;
+    float: left;
+    padding: 4px 4px 4px 4px;
+    margin-left: 25px;
+    margin-top: 6px;
+}
+
+a#downlink:link
+{
+    text-decoration: none;
+    color: black;
+}
+
+a#downlink:hover
+{
+    color: lightgreen;
+}
+
+
+
+#liststyle
+{
+    
+    padding-top: 1px;
+    padding-left: 20px;
+}
+
+#header
+{
+    
+    margin-bottom: 10px;
+}
+
+
+.ImageHeader
+{
+    margin: auto;
+    width: 400px;
+    padding-left: 140px;
+    height: 105px;
+}
+
+
+#new
+{
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+.AtTheBottom
+{   
+    background: white;
+    margin: auto;
+    width: 400px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.Gap{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
